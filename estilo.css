@@ -10,7 +10,7 @@ header{
 }
 
 section{
-    background: rgb(193, 193, 206) ;
+    background: #c1c1ce ;
     border: 7px solid rgb(217, 217, 226);
     border-radius: 3px;
     padding: 10px;
@@ -25,4 +25,9 @@ footer{
     text-align: center;
     font-style: italic;
 
+}
+
+.imagem{
+    width: 400px;
+    border-radius: 10px;
 }
