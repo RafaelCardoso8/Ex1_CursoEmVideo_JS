@@ -9,6 +9,12 @@ header{
 
 }
 
+h1{
+    margin-bottom: 50px;
+    color: #0ca0d1;
+}
+
+
 section{
     background: #c1c1ce ;
     border: 7px solid rgb(217, 217, 226);
@@ -21,13 +27,21 @@ section{
 
 }
 
-footer{
+footer {
     text-align: center;
     font-style: italic;
+    color: #6a98a7;
 
 }
 
 .imagem{
     width: 400px;
     border-radius: 10px;
+    border: 7px solid rgb(135, 135, 163);
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.692);    
 }
+
+#msg{
+    margin: 15px;
+}
+
